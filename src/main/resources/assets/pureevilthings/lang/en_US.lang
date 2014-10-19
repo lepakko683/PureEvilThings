@@ -1,0 +1,17 @@
+
+// Items
+item.onyx.name=Onyx
+item.bloodStainedOnyx.name=Blood Stained Onyx
+item.bloodOnyx.name=Blood Onyx
+
+// Item descs
+item.onyx.desc=Drop into blood to get Blood Stained Onyx
+item.bloodStainedOnyx.desc=Burn in fire to get Blood Onyx
+//item.bloodOnyx.desc=
+
+// Blocks
+tile.oreOnyx.name=Onyx Ore
+tile.liqBlood.name=Blood
+
+// Misc
+itemGroup.pureevilthings=Pure Evil Things
