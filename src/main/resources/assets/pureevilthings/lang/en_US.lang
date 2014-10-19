@@ -7,7 +7,7 @@ item.bloodOnyx.name=Blood Onyx
 // Item descs
 item.onyx.desc=Drop into blood to get Blood Stained Onyx
 item.bloodStainedOnyx.desc=Burn in fire to get Blood Onyx
-//item.bloodOnyx.desc=
+item.bloodOnyx.desc=An onyx containing strange, corrupt energy
 
 // Blocks
 tile.oreOnyx.name=Onyx Ore
