@@ -4,10 +4,20 @@ item.onyx.name=Onyx
 item.bloodStainedOnyx.name=Blood Stained Onyx
 item.bloodOnyx.name=Blood Onyx
 
+item.bloodBottle_regular.name=Bottle of Regular Blood
+item.bloodBottle_undead.name=Bottle of Blood of the Undead
+item.bloodBottle_ender.name=Bottle of Ender Blood
+item.bloodBottle_infernal.name=Bottle of Infernal Creatures' Blood
+
 // Item descs
 item.onyx.desc=Drop into blood to get Blood Stained Onyx
 item.bloodStainedOnyx.desc=Burn in fire to get Blood Onyx
 item.bloodOnyx.desc=An onyx containing strange, corrupt energy
+
+item.bloodBottle_regular.desc=A bottle containing regular blood
+item.bloodBottle_undead.desc=A bottle containing blood of undead creatures
+item.bloodBottle_ender.desc=A bottle containing blood of ender creatures
+item.bloodBottle_infernal.desc=A bottle containing blood of creatures of The Nether
 
 // Blocks
 tile.oreOnyx.name=Onyx Ore
