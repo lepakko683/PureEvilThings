@@ -24,22 +24,18 @@ public class ClientLivingUpdateEventH {
 	                }
 	                if(screenWarpMultip > 1.05f) {
 	                	screenWarpMultip = 1.05f;
-	                	System.out.println(screenWarpMultip);
 	                }
-//	                screenWarpMultip = 1.0f;
 				} else {
 					// Note: Entity.inPortal has to be 'access transformed' to be public
 					if(splr.inPortal || splr.isPotionActive(Potion.confusion)) {
 						return;
 					}
 					if(screenWarpMultip > 1.0f) {
-						System.out.println("reduc");
 	                	screenWarpMultip -= 0.0008334f;
 	                	splr.timeInPortal = 0.001f;
 	                }
 	                if(screenWarpMultip < 1.0f) {
 	                	screenWarpMultip = 1.0f;
-	                	System.out.println("stop");
 	                	splr.timeInPortal = 0;
 	                }
 					

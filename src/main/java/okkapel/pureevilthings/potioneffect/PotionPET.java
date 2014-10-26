@@ -33,7 +33,7 @@ public class PotionPET extends Potion {
 		if(id != -1) {
 			return new PotionPET(id, badEffect, color, curItems);
 		}
-		return null;
+		return (PotionPET) Potion.blindness;
 	}
 	
 	public PotionPET setPotionName(String name) {
