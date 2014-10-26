@@ -9,9 +9,11 @@ import cpw.mods.fml.common.registry.GameRegistry.ObjectHolder;
 public class ModItems {
 	public static Item itemOnyx = new ItemOnyx("onyx");
 	public static Item itemBloodBottle = new ItemBloodBottle("bloodBottle");
+	public static Item itemBloodOnyxPick = new ItemBloodOnyxPick("toolOnyxPickaxe");
 	
 	public static void initItems() {
 		GameRegistry.registerItem(itemOnyx, "onyx");
 		GameRegistry.registerItem(itemBloodBottle, "bloodBottle");
+		GameRegistry.registerItem(itemBloodOnyxPick, "toolOnyxPickaxe");
 	}
 }

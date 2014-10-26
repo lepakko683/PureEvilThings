@@ -3,6 +3,7 @@
 item.onyx.name=Onyx
 item.bloodStainedOnyx.name=Blood Stained Onyx
 item.bloodOnyx.name=Blood Onyx
+item.toolOnyxPickaxe.name=Blood Onyx Pickaxe
 
 item.bloodBottle_regular.name=Bottle of Regular Blood
 item.bloodBottle_undead.name=Bottle of Blood of the Undead
@@ -25,3 +26,6 @@ tile.liqBlood.name=Blood
 
 // Misc
 itemGroup.pureevilthings=Pure Evil Things
+
+// Potions
+potion.insanity=Insanity
